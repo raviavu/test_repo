@@ -16,3 +16,5 @@ Learning to use GIT
   -> made an other change
 
 -> made change on local repo to push to github repository
+
+-> made a new branch from a branch checkedout from github(github br -> test_repo_dupl) by name local_dup_test_repo and push it to github
