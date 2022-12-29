@@ -14,3 +14,5 @@ Learning to use GIT
 -> making changes in the remote github repository
 
   -> made an other change
+
+-> made change on local repo to push to github repository

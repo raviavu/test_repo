@@ -3,7 +3,11 @@ nvbjhgdf<img src="sample.png" alt="...">jlgjlkdfgjkldfgj
 test string for merge conflicts
 <div></div>
 <div class="col">dskjhj</div>
-<>
+<heloo world>
+<
+woah
+>
+<teste the github push cmd>
 ?////////
             <imagine></imagine>     ksghjksgh
 jsdlkfj<>
