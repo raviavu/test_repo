@@ -9,3 +9,6 @@ Learning to use GIT
 
 -> took a leap to branching in git. Feels exciting
 -> made a new branch by name emergency from new-features branch created in previous step
+
+  
+-> making changes in the remote github repository
