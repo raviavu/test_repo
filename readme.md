@@ -12,3 +12,5 @@ Learning to use GIT
 
   
 -> making changes in the remote github repository
+
+  -> made an other change
