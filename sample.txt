@@ -1,5 +1,6 @@
 <html>
 nvbjhgdf<img src="sample.png" alt="...">jlgjlkdfgjkldfgj
+test string for merge conflicts
 <div class="col">dskjhj</div>
             <imagine></imagine>     ksghjksgh
 jsdlkfj<>
